@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Luxury Gift Box",
+    "client": "Al Misk Premium",
+    "category": "Rigid Box",
+    "description": "Premium rigid gift box with embossed gold logo, magnetic closure and ribbon pull. Designed for UAE luxury brand gifting.",
+    "image": "/images/packaging/01-luxury-gift-box.jpg",
+    "tags": ["Gift Box", "Rigid", "Gold Foil", "UAE"],
+    "placeholder": "🎁",
+    "placeholderGradient": "linear-gradient(135deg, #1a0f00 0%, #3a2000 50%, #1a1000 100%)"
+  },
+  {
+    "id": 2,
+    "title": "Premium Paper Bag",
+    "client": "UAE Fashion Brand",
+    "category": "Paper Bag",
+    "description": "High-end shopping bag with twisted paper handle, spot UV coating and custom tissue paper. Print-ready dieline included.",
+    "image": "/images/packaging/02-premium-paper-bag.jpg",
+    "tags": ["Paper Bag", "Spot UV", "Fashion"],
+    "placeholder": "🛍️",
+    "placeholderGradient": "linear-gradient(135deg, #0a0520 0%, #1a0f35 50%, #0d0825 100%)"
+  },
+  {
+    "id": 3,
+    "title": "Perfume Box Design",
+    "client": "Imraf Perfume",
+    "category": "Product Box",
+    "description": "Elegant perfume packaging with sleeve-style outer box, hot stamping and custom insert tray for UAE perfume brand.",
+    "image": "/images/packaging/03-perfume-box.jpg",
+    "tags": ["Perfume", "Sleeve Box", "Hot Stamp"],
+    "placeholder": "🫧",
+    "placeholderGradient": "linear-gradient(135deg, #001015 0%, #002030 50%, #001520 100%)"
+  },
+  {
+    "id": 4,
+    "title": "Food & Bakery Box",
+    "client": "Misk Blooming",
+    "category": "Food Packaging",
+    "description": "Custom bakery and food packaging with full-bleed print, food-safe coating and easy assembly dieline.",
+    "image": "/images/packaging/04-bakery-box.jpg",
+    "tags": ["Food", "Bakery", "Full Print"],
+    "placeholder": "🎂",
+    "placeholderGradient": "linear-gradient(135deg, #150500 0%, #2a0f00 50%, #1a0800 100%)"
+  },
+  {
+    "id": 5,
+    "title": "Brand Identity Kit",
+    "client": "UAE Retail Brand",
+    "category": "Full Branding",
+    "description": "Complete brand identity including logo, business card, letterhead, packaging system and brand guideline document.",
+    "image": "/images/packaging/05-brand-identity.jpg",
+    "tags": ["Branding", "Identity", "Guidelines"],
+    "placeholder": "🎨",
+    "placeholderGradient": "linear-gradient(135deg, #001a05 0%, #003010 50%, #001a08 100%)"
+  },
+  {
+    "id": 6,
+    "title": "Custom Label Design",
+    "client": "Local Spice Brand",
+    "category": "Label Design",
+    "description": "Die-cut product labels with variable data, barcode-ready layout and CMYK print-ready files in Adobe Illustrator.",
+    "image": "/images/packaging/06-label-design.jpg",
+    "tags": ["Labels", "Die-Cut", "Illustrator"],
+    "placeholder": "🏷️",
+    "placeholderGradient": "linear-gradient(135deg, #100015 0%, #200025 50%, #150018 100%)"
+  }
+]
